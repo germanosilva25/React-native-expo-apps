@@ -1,0 +1,12 @@
+[submodule "Navigation"]
+	path = Navigation
+	url = https://github.com/germanosilva25/Navigation.git
+[submodule "MenuDrawer"]
+	path = MenuDrawer
+	url = https://github.com/germanosilva25/MenuDrawer.git
+[submodule "Menu"]
+	path = Menu
+	url = https://github.com/germanosilva25/Menu.git
+[submodule "Component-props"]
+	path = Component-props
+	url = https://github.com/germanosilva25/Component-props.git
